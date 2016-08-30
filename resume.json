@@ -1,0 +1,215 @@
+{
+  "basics": {
+    "name": "Samar D Acharya",
+    "label": "DevOps and Software Developer",
+    "picture": "https://secureapp.beknown.com/user/profile/picture.ashx?type=large&doc=27eb954b-96e1-473f-b5b2-1e4d9c24bfe4",
+    "email": "samar@techgaun.com",
+    "phone": "",
+    "website": "http://samar.techgaun.com",
+    "summary": "Born in Nepal and currently living in Kansas, USA, Samar is a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual with sharp learning curve and dedication to building highly available and reliable applications.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kansas City",
+      "countryCode": "US",
+      "region": "KS"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "techgaun",
+        "url": ""
+      },
+      {
+        "network": "StackOverflow",
+        "username": "1102395/samar",
+        "url": ""
+      },
+      {
+        "network": "Twitter",
+        "username": "techgaun",
+        "url": ""
+      },
+      {
+        "network": "Facebook",
+        "username": "techgaun",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Brightergy, LLC",
+      "position": "DevOps Engineering Manager",
+      "website": "https://brightergy.com",
+      "startDate": "2014-09-01",
+      "endDate": "",
+      "summary": "Brightergy, LLC is a clean energy company with a vision to utilize technology to be able to collect vast amount of energy data and turn them into actionable intelligence. Leveraging the power of IoT, the technology team is utilizing range of platforms, programming languages, databases and cloud to build such energy platform.",
+      "highlights": [
+        "Write backend api and device code in elixir and python",
+        "Lead a team of engineers to build successful cloud and device solutions",
+        "Manage cloud platform of BrighterLink, the enrgy platform including scaling, high availability, security and resilience at all level",
+        "Design the solutions and implementation details for various features"
+      ]
+    },
+    {
+      "company": "Techgaun Nepal Pvt. Ltd.",
+      "position": "Chief Technology Officer",
+      "website": "http://techgaun.com",
+      "startDate": "2013-12-05",
+      "endDate": "2014-08-14",
+      "summary": "Techgaun was a startup with focus on building local data analysis platform as a Product while sustaining itself via the outsourcing work.",
+      "highlights": [
+        "Led a team of developer to build data analysis platform for local business data",
+        "Designed, implemented and delivered solutions for the clients"
+      ]
+    },
+    {
+      "company": "Deerwalk, Inc.",
+      "position": "Release Engineer",
+      "website": "http://deerwalk.com",
+      "startDate": "2013-05-20",
+      "endDate": "2013-12-19",
+      "summary": "Deerwalk, Inc. develops solutions for data analysis and management of US healthcare. The vast amount of data are turned into actionable insights and intelligence and used for patient care, insurance assessment, etc.",
+      "highlights": [
+        "Built a highly flexible deployment environment",
+        "Implemented local dev environment with dummy data generation for several large-scale projects",
+        "Performed security assessment against various projects"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Help Nepal Network",
+      "position": "Technical Co-ordinator",
+      "website": "http://helpnepal.net/",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-25",
+      "summary": "The largest charitable network of Nepalis, HELP NEPAL Network: One Dollar a Month Fund for Nepal is a global charity run on a fully voluntary basis. Help Nepal Network runs a educational project with a goal of deploying one electronic library per district.",
+      "highlights": [
+        "Led a team of volunteers to deploy electronic library using LTSP and provided training to the students",
+        "Developed a complete solution to automate the deployment of electronic library"
+      ]
+    },
+    {
+      "organization": "Kathmandu University Boys Hostel",
+      "position": "Network Engineer",
+      "website": "http://ku.edu.np",
+      "startDate": "2012-05-15",
+      "endDate": "2013-10-01",
+      "summary": "I maintained and managed internet connectivity and network of more than 200 hosts in a hostel network.",
+      "highlights": [
+        "Built an automated traffic shaping utility and firewall policy",
+        "Developed and implemented various network security measures for ethernet and WiFI network"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kathmandu University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-08-01",
+      "endDate": "2013-12-01",
+      "gpa": "3.68 - A in computer related courses",
+      "courses": [
+        "Computer Graphics",
+        "Compiler Design",
+        "Computer Systems Architecture",
+        "Principles of Programming Languages"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "DevOps",
+      "level": "Expert",
+      "keywords": [
+        "Ansible",
+        "Amazon Web Services",
+        "OpenShift",
+        "Docker",
+        "Heroku",
+        "Micro-services",
+        "Puppet",
+        "Linux",
+        "Windows",
+        "NoSQL",
+        "RDBMS"
+      ]
+    },
+    {
+      "name": "Web backend development",
+      "level": "Intermediate",
+      "keywords": [
+        "Elixir",
+        "Phoenix",
+        "REST",
+        "Message Queues",
+        "Node.js",
+        "Python",
+        "Platform Security",
+        "PHP",
+        "NoSQL",
+        "RDBMS",
+        "MEAN"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "D3.js",
+        "Highcharts",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Good"
+    },
+    {
+      "language": "Nepali",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Security",
+      "keywords": [
+        "Exploit development",
+        "Web security"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": [
+        "Statistics & Probability",
+        "Calculus",
+        "Algebra",
+        "Numerical Methods"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football (Soccer)",
+        "Table Tennis (Ping Pong)",
+        "Juggling"
+      ]
+    }
+  ],
+  "references": []
+}
