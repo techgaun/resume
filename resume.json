@@ -167,7 +167,8 @@
         "AngularJS",
         "D3.js",
         "Highcharts",
-        "Bootstrap"
+        "Bootstrap",
+        "React"
       ]
     }
   ],
