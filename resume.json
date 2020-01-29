@@ -6,7 +6,7 @@
     "email": "samar@techgaun.com",
     "phone": "",
     "website": "http://techgaun.com",
-    "summary": "Born in Nepal and currently living in Kansas City, USA, Samar is a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual with sharp learning curve and dedication to building highly available and reliable applications.",
+    "summary": "Born in Nepal and currently living in Kansas City, USA, Samar is a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual with sharp learning curve and dedication to building highly available and reliable applications and systems.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,7 +43,6 @@
       "position": "Cloud Application Architect",
       "website": "https://paylease.com",
       "startDate": "2019-11-16",
-      "endDate": "",
       "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
         "Work with various teams for architectural foundations of systems built",
