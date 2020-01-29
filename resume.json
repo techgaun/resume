@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Samar D Acharya",
-    "label": "DevOps and Software Developer",
-    "picture": "https://secureapp.beknown.com/user/profile/picture.ashx?type=large&doc=27eb954b-96e1-473f-b5b2-1e4d9c24bfe4",
+    "label": "Software & Cloud Architect",
+    "picture": "https://i.ibb.co/BGXY3ck/test.jpg",
     "email": "samar@techgaun.com",
     "phone": "",
-    "website": "http://samar.techgaun.com",
-    "summary": "Born in Nepal and currently living in Kansas, USA, Samar is a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual with sharp learning curve and dedication to building highly available and reliable applications.",
+    "website": "http://techgaun.com",
+    "summary": "Born in Nepal and currently living in Kansas City, USA, Samar is a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual with sharp learning curve and dedication to building highly available and reliable applications.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Kansas City",
       "countryCode": "US",
-      "region": "KS"
+      "region": "MO"
     },
     "profiles": [
       {
@@ -39,12 +39,40 @@
   },
   "work": [
     {
+      "company": "PayLease, LLC",
+      "position": "Lead Software Architect",
+      "website": "https://paylease.com",
+      "startDate": "2019-04-16",
+      "endDate": "",
+      "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
+      "highlights": [
+        "Played pivotal role in integrating Zego's existing infrastructure and application with PayLease",
+        "Implemented a lot of optimization and enhancements with new volume of data after acquisition on Zego applications",
+        "Managed cloud platform of Zego"
+      ]
+    },
+    {
+      "company": "Zego, Inc.",
+      "position": "Lead Software Architect",
+      "website": "https://zego.io",
+      "startDate": "2017-01-01",
+      "endDate": "2019-04-15",
+      "summary": "Zego was a smart-home solution custom built for multi-family and was acquired by PayLease in May 2019",
+      "highlights": [
+        "Managed and maintained infrastructure and application",
+        "Led a team of engineers to build successful cloud and device solutions",
+        "Managed cloud platform of Zego",
+        "Helped company make successful exit by building solid technical foundation",
+        "Built all the various smart home voice integrations of Zego"
+      ]
+    },
+    {
       "company": "Brightergy, LLC",
       "position": "DevOps Engineering Manager",
       "website": "https://brightergy.com",
       "startDate": "2014-09-01",
-      "endDate": "",
-      "summary": "Brightergy, LLC is a clean energy company with a vision to utilize technology to be able to collect vast amount of energy data and turn them into actionable intelligence. Leveraging the power of IoT, the technology team is utilizing range of platforms, programming languages, databases and cloud to build such energy platform.",
+      "endDate": "2016-12-31",
+      "summary": "Brightergy, LLC was a clean energy company with a vision to utilize technology to be able to collect vast amount of energy data and turn them into actionable intelligence. Leveraging the power of IoT, the technology team is utilizing range of platforms, programming languages, databases and cloud to build such energy platform.",
       "highlights": [
         "Write backend api and device code in elixir and python",
         "Lead a team of engineers to build successful cloud and device solutions",
@@ -129,7 +157,7 @@
       "keywords": [
         "Ansible",
         "Amazon Web Services",
-        "OpenShift",
+        "Google Cloud",
         "Docker",
         "Heroku",
         "Micro-services",
@@ -137,12 +165,13 @@
         "Linux",
         "Windows",
         "NoSQL",
-        "RDBMS"
+        "RDBMS",
+        "Kubernetes"
       ]
     },
     {
       "name": "Web backend development",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Elixir",
         "Phoenix",
@@ -154,7 +183,9 @@
         "PHP",
         "NoSQL",
         "RDBMS",
-        "MEAN"
+        "MEAN",
+        "Alexa",
+        "Google Actions"
       ]
     },
     {
