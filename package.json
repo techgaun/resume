@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume of techgaun <samar@techgaun.com>",
+  "main": "index.js",
+  "repository": "git@github.com:techgaun/resume.git",
+  "author": "techgaun <coolsamar207@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.13.2"
+  },
+  "scripts": {
+    "html": "./node_modules/.bin/resume export resume.html -t elegant -f .html"
+  }
+}

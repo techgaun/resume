@@ -39,11 +39,24 @@
   },
   "work": [
     {
-      "company": "PayLease, LLC",
+      "company": "PayLease",
+      "position": "Cloud Application Architect",
+      "website": "https://paylease.com",
+      "startDate": "2019-11-16",
+      "endDate": "",
+      "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
+      "highlights": [
+        "Work with various teams for architectural foundations of systems built",
+        "Work with various teams for Cloud Native initiatives",
+        "Manage cloud platform of Zego"
+      ]
+    },
+    {
+      "company": "PayLease",
       "position": "Lead Software Architect",
       "website": "https://paylease.com",
       "startDate": "2019-04-16",
-      "endDate": "",
+      "endDate": "2019-11-15",
       "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
         "Played pivotal role in integrating Zego's existing infrastructure and application with PayLease",
