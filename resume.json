@@ -39,14 +39,16 @@
   },
   "work": [
     {
-      "company": "PayLease",
-      "position": "Cloud Application Architect",
-      "website": "https://paylease.com",
+      "company": "Zego (Powered by PayLease)",
+      "position": "Cloud Application Architect, Principal Engineer",
+      "website": "https://gozego.com",
       "startDate": "2019-11-16",
-      "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
+      "summary": "Zego (Powered by PayLease) provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
         "Work with various teams for architectural foundations of systems built",
         "Work with various teams for Cloud Native initiatives",
+        "Review various architectural proposals on high-level system design and code implementations",
+        "Provide leadership guidance for smart and engage initiatives",
         "Manage cloud platform of Zego"
       ]
     },
