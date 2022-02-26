@@ -208,6 +208,18 @@
       ]
     },
     {
+      "name": "Architecture",
+      "level": "Expert",
+      "keywords": [
+        "Domain Driven Design",
+        "Microservices",
+        "Service-oriented architecture",
+        "Enterprise Integration",
+        "Low Latency Systems",
+        "Distributed Systems"
+      ]
+    },
+    {
       "name": "Frontend Development",
       "level": "Intermediate",
       "keywords": [
