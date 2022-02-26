@@ -45,6 +45,7 @@
       "startDate": "2019-11-16",
       "summary": "Zego (Powered by PayLease) provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
+        "Work with VP of engineering, directors and tribe leaders and product team on strategic growth and platform maturity",
         "Work with various teams for architectural foundations of systems built",
         "Work with various teams for Cloud Native initiatives",
         "Review various architectural proposals on high-level system design and code implementations",
@@ -93,7 +94,7 @@
       "highlights": [
         "Wrote backend api and device code in elixir and python",
         "Led a team of engineers to build successful cloud and device solutions",
-        "Managed cloud platform of BrighterLink, the enrgy platform including scaling, high availability, security and resilience at all level",
+        "Managed cloud platform of BrighterLink, the energy platform including scaling, high availability, security and resilience at all level",
         "Designed the solutions and implementation details for various core business features"
       ]
     },
