@@ -38,7 +38,7 @@
       {
         "network": "Linkedin",
         "username": "techgaun",
-        "url": ""
+        "url": "https://www.linkedin.com/in/techgaun/"
       }
     ]
   },
@@ -59,7 +59,9 @@
         "Engage for technical dilligence in M&A efforts",
         "Work with security group and provide code reviews and perform internal pentests",
         "Design and develop micro-frontend architecture and template and help teams adopt it",
-        "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse"
+        "Built and maintained mobile ci/cd workflows and helped teams with react-native hands-on work",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse, React, React Native, Bitrise",
+        "60% coding, 40% architecture and leadership"
       ]
     },
     {
@@ -73,7 +75,8 @@
         "Played pivotal role in integrating Zego's existing infrastructure and application with PayLease",
         "Implemented a lot of optimization and enhancements with new volume of data after acquisition on Zego applications",
         "Managed cloud platform of Zego",
-        "Tech highlights: Elixir, Javascript, Typescript, Node.js, Python, C, C++, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse"
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, Python, C, C++, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse",
+        "70% coding, 30% architecture and leadership"
       ]
     },
     {
