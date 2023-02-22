@@ -6,7 +6,7 @@
     "email": "samar@techgaun.com",
     "phone": "",
     "website": "http://techgaun.com",
-    "summary": "Born in Nepal and currently living in Kansas City, USA, I am a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual and technology leader with sharp learning curve and dedication to building highly available and reliable applications and systems. I have been leading major technology decisions for my last few companies and helping drive the strategic decisions around the technology.",
+    "summary": "From Nepal, currently in Kansas City, USA, I am a self-motivated, challenge seeker, problem solver, avid hacker, reliable and passionate individual and technology leader with sharp learning curve and dedication to building highly available and reliable applications and systems. I have been leading major technology decisions for my last few companies and helping drive the strategic decisions around the technology.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,6 +34,11 @@
         "network": "Facebook",
         "username": "techgaun",
         "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "techgaun",
+        "url": ""
       }
     ]
   },
@@ -52,7 +57,9 @@
         "Provide leadership guidance for smart and engage initiatives",
         "Manage cloud platform of Zego",
         "Engage for technical dilligence in M&A efforts",
-        "Work with security group and provide code reviews and perform internal pentests"
+        "Work with security group and provide code reviews and perform internal pentests",
+        "Design and develop micro-frontend architecture and template and help teams adopt it",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse"
       ]
     },
     {
@@ -65,7 +72,8 @@
       "highlights": [
         "Played pivotal role in integrating Zego's existing infrastructure and application with PayLease",
         "Implemented a lot of optimization and enhancements with new volume of data after acquisition on Zego applications",
-        "Managed cloud platform of Zego"
+        "Managed cloud platform of Zego",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, Python, C, C++, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse"
       ]
     },
     {
@@ -81,7 +89,8 @@
         "Managed cloud platform of Zego",
         "Helped company make successful exit by building solid technical foundation",
         "Built all the various smart home voice integrations of Zego",
-        "Architected and implemented third-party property management and payment integrations"
+        "Architected and implemented third-party property management and payment integrations",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, Python, C, C++, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes"
       ]
     },
     {
@@ -95,7 +104,8 @@
         "Wrote backend api and device code in elixir and python",
         "Led a team of engineers to build successful cloud and device solutions",
         "Managed cloud platform of BrighterLink, the energy platform including scaling, high availability, security and resilience at all level",
-        "Designed the solutions and implementation details for various core business features"
+        "Designed the solutions and implementation details for various core business features",
+        "Tech highlights: Python, Elixir, Javascript, Node.js, PostgreSQL, TempoIQ, InfluxDB, AWS, GCP, Kubernetes"
       ]
     },
     {
@@ -184,14 +194,19 @@
         "Windows",
         "NoSQL",
         "RDBMS",
-        "Kubernetes"
+        "Kubernetes",
+        "Harness",
+        "Concourse",
+        "MongoDB"
       ]
     },
     {
-      "name": "Web backend development",
+      "name": "Backend Engineering",
       "level": "Expert",
       "keywords": [
         "Elixir",
+        "Javascript",
+        "Typescript",
         "Phoenix",
         "REST",
         "Message Queues",
@@ -204,7 +219,9 @@
         "MEAN",
         "Alexa",
         "Google Actions",
-        "Kafka"
+        "Kafka",
+        "MongoDB",
+        "Authn, Authz, OAuth2, OpenID Connect"
       ]
     },
     {
@@ -220,7 +237,7 @@
       ]
     },
     {
-      "name": "Frontend Development",
+      "name": "Frontend Engineering",
       "level": "Intermediate",
       "keywords": [
         "HTML",
@@ -230,7 +247,8 @@
         "D3.js",
         "Highcharts",
         "Bootstrap",
-        "React"
+        "React",
+        "Micro-frontend"
       ]
     }
   ],
@@ -246,6 +264,10 @@
     {
       "language": "Hindi",
       "fluency": "Good"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Medium Beginner"
     }
   ],
   "interests": [
