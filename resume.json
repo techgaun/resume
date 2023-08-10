@@ -231,7 +231,7 @@
     },
     {
       "name": "Frontend Engineering",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "HTML",
         "CSS",
@@ -241,6 +241,7 @@
         "Highcharts",
         "Bootstrap",
         "React",
+        "React Native",
         "Micro-frontend"
       ]
     }
