@@ -44,39 +44,37 @@
   },
   "work": [
     {
-      "company": "Zego (Powered by PayLease)",
-      "position": "Cloud Application Architect, Principal Engineer",
-      "website": "https://gozego.com",
-      "startDate": "2019-11-16",
-      "summary": "Zego (Powered by PayLease) provides property management services and solutions such as payment, billing and smarthome systems",
+      "company": "Snappt",
+      "position": "Staff Engineer",
+      "website": "https://snappt.com",
+      "startDate": "2023-05-05",
+      "summary": "ML powered fraud detection platform",
       "highlights": [
-        "Work with VP of engineering, directors and tribe leaders and product team on strategic growth and platform maturity",
-        "Work with various teams for architectural foundations of systems built",
-        "Work with various teams for Cloud Native initiatives",
-        "Review various architectural proposals on high-level system design and code implementations",
-        "Provide leadership guidance for smart and engage initiatives",
-        "Manage cloud platform of Zego",
-        "Engage for technical dilligence in M&A efforts",
-        "Work with security group and provide code reviews and perform internal pentests",
-        "Design and develop micro-frontend architecture and template and help teams adopt it",
-        "Built and maintained mobile ci/cd workflows and helped teams with react-native hands-on work",
-        "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse, React, React Native, Bitrise",
-        "60% coding, 40% architecture and leadership"
+        "Built infrastructure configuration with terraform and CI/CD with github actions",
+        "Led the technical implementation for Automated Validation component in core application",
+        "Initiated and collaborated with key stakeholders to help build architectural standards across the teams",
+        "Implemented industry standard security practices on core application",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, PostgreSQL, AWS, Kubernetes, React, Github Actions, Terraform"
       ]
     },
     {
-      "company": "PayLease",
-      "position": "Lead Software Architect",
-      "website": "https://paylease.com",
+      "company": "Zego (Powered by PayLease)",
+      "position": "Principal Cloud Application Architect",
+      "website": "https://gozego.com",
       "startDate": "2019-05-16",
-      "endDate": "2019-11-15",
-      "summary": "PayLease provides property management services and solutions such as payment, billing and smarthome systems",
+      "endDate": "2023-04-30",
+      "summary": "Zego provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
-        "Played pivotal role in integrating Zego's existing infrastructure and application with PayLease",
-        "Implemented a lot of optimization and enhancements with new volume of data after acquisition on Zego applications",
-        "Managed cloud platform of Zego",
-        "Tech highlights: Elixir, Javascript, Typescript, Node.js, Python, C, C++, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse",
-        "70% coding, 30% architecture and leadership"
+        "Work with VP, directors and tribe leaders and product team on strategic growth and platform maturity",
+        "Work with various teams for architectural foundations and cloud native SOA",
+        "Review various architectural proposals on high-level system design and code implementations",
+        "Provide leadership guidance for smart and engage initiatives",
+        "Manage cloud platform of Zego",
+        "Engage in technical dilligence in M&A efforts",
+        "Work with security group and provide code reviews and perform internal pentests",
+        "Design and develop micro-frontend architecture and template and help teams adopt it",
+        "Built and maintained mobile ci/cd workflows and helped teams with react-native hands-on work",
+        "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse, React, React Native, Bitrise, C, C++"
       ]
     },
     {
@@ -85,7 +83,7 @@
       "website": "https://zego.io",
       "startDate": "2017-01-01",
       "endDate": "2019-05-15",
-      "summary": "Zego was a smart-home solution custom built for multi-family and was acquired by PayLease in May 2019",
+      "summary": "Smart-home and multi-family residential solution; acquired by PayLease in May 2019",
       "highlights": [
         "Managed and maintained infrastructure and application",
         "Led a team of engineers to build successful cloud and device solutions",
@@ -102,9 +100,9 @@
       "website": "https://brightergy.com",
       "startDate": "2014-09-01",
       "endDate": "2016-12-31",
-      "summary": "Brightergy, LLC was a clean energy company with a vision to utilize technology to be able to collect vast amount of energy data and turn them into actionable intelligence. Leveraging the power of IoT, the technology team is utilizing range of platforms, programming languages, databases and cloud to build such energy platform.",
+      "summary": "Clean energy technology solution to turn energy data into actionable intelligence.",
       "highlights": [
-        "Wrote backend api and device code in elixir and python",
+        "Wrote backend api and IoT device code in elixir and python",
         "Led a team of engineers to build successful cloud and device solutions",
         "Managed cloud platform of BrighterLink, the energy platform including scaling, high availability, security and resilience at all level",
         "Designed the solutions and implementation details for various core business features",
@@ -117,10 +115,11 @@
       "website": "http://techgaun.com",
       "startDate": "2013-12-05",
       "endDate": "2014-08-14",
-      "summary": "Techgaun was a startup with focus on building local data analysis platform as a Product while sustaining itself via the outsourcing work.",
+      "summary": "Startup building local data analysis platform as a product while sustaining itself via the outsourcing work.",
       "highlights": [
         "Led a team of developer to build data analysis platform for local business data",
-        "Designed, implemented and delivered solutions for the clients"
+        "Designed, implemented and delivered custom software solutions for the clients",
+        "Tech highlights: Python, Javascript, Wordpress, MySQL, PostgreSQL"
       ]
     },
     {
@@ -129,11 +128,12 @@
       "website": "http://deerwalk.com",
       "startDate": "2013-05-20",
       "endDate": "2013-12-19",
-      "summary": "Deerwalk, Inc. develops solutions for data analysis and management of US healthcare. The vast amount of data are turned into actionable insights and intelligence and used for patient care, insurance assessment, etc.",
+      "summary": "Developed solutions for data analysis and management of US healthcare turning the vast amount of data into actionable insights and intelligence and used for patient care, insurance assessment, etc.",
       "highlights": [
-        "Built a highly flexible deployment environment",
+        "Built a highly flexible deployment environment for highly resilient platform",
         "Implemented local dev environment with dummy data generation for several large-scale projects",
-        "Performed security assessment against various projects"
+        "Performed security assessment against various projects",
+        "Tech highlights: Python, Javascript, Java, Groovy, .NET, Hadoop, MSSQL Server"
       ]
     }
   ],
