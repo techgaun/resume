@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Samar D Acharya",
+    "name": "Samar Acharya",
     "label": "Software & Cloud Architect, Technology Leader",
     "picture": "https://i.ibb.co/BGXY3ck/test.jpg",
     "email": "samar@techgaun.com",
-    "phone": "",
+    "phone": "913-850-9524",
     "website": "http://techgaun.com",
-    "summary": "From Nepal, currently in Kansas City, USA, I am a self-motivated, challenge seeker, problem solver, avid tech enthusiast, open source contributor, reliable and passionate individual and technology leader with sharp learning curve and dedication to building highly available and reliable applications and systems. I have been leading major technology decisions for my last few companies and helping drive the strategic decisions around the technology and business.",
+    "summary": "Tech enthusiast, avid reader, life-long learner and thought leader for product tech strategy throughout the career. Also, an open-source enthusiast and part-time contributor in various OSS ecosystems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Kansas City",
+      "city": "Olathe",
       "countryCode": "US",
-      "region": "MO"
+      "region": "KS"
     },
     "profiles": [
       {
@@ -23,16 +23,6 @@
       {
         "network": "StackOverflow",
         "username": "1102395/samar",
-        "url": ""
-      },
-      {
-        "network": "Twitter",
-        "username": "techgaun",
-        "url": ""
-      },
-      {
-        "network": "Facebook",
-        "username": "techgaun",
         "url": ""
       },
       {
@@ -65,14 +55,14 @@
       "endDate": "2023-04-30",
       "summary": "Zego provides property management services and solutions such as payment, billing and smarthome systems",
       "highlights": [
-        "Work with VP, directors and tribe leaders and product team on strategic growth and platform maturity",
-        "Work with various teams for architectural foundations and cloud native SOA",
-        "Review various architectural proposals on high-level system design and code implementations",
-        "Provide leadership guidance for smart and engage initiatives",
-        "Manage cloud platform of Zego",
-        "Engage in technical dilligence in M&A efforts",
-        "Work with security group and provide code reviews and perform internal pentests",
-        "Design and develop micro-frontend architecture and template and help teams adopt it",
+        "Worked with VP, directors and tribe leaders and product team on strategic growth and platform maturity",
+        "Worked with various teams for architectural foundations and cloud native SOA converting majority of 20 years old monolity to 20+ microservices",
+        "Reviewed various architectural proposals on high-level system design and code implementations",
+        "Provided leadership guidance for smart and engage initiatives",
+        "Managed cloud platform of Zego",
+        "Engaged in technical dilligence in M&A efforts",
+        "Worked with security group and provide code reviews and perform internal pentests",
+        "Designed and developed micro-frontend architecture and template and help teams adopt it",
         "Built and maintained mobile ci/cd workflows and helped teams with react-native hands-on work",
         "Tech highlights: Elixir, Javascript, Typescript, Node.js, .NET Core, PostgreSQL, MongoDB, InfluxDB, AWS, GCP, Kubernetes, Harness, Concourse, React, React Native, Bitrise, C, C++"
       ]
